@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+G:\проект пятнашки\ConsoleApplication2\ConsoleApplication2.cpp(6,18): error C2377: SIZE: переопределение; typedef нельзя перегрузить другим символом
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\windef.h(190,3):
+   см. объявление "SIZE"
+  
